@@ -3,6 +3,10 @@ import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
 
+# Animated images = https://lottiefiles.com/search?q=coding&category=animations&animations-page=3
+# Theme using config.toml into a .streamlit folder = https://blog.streamlit.io/introducing-theming/
+# CSS = https://github.com/SoMaxB/StreamlitPage/blob/main/style/style.css
+
 # Page config
 st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
 
